@@ -8,4 +8,71 @@ Album: Tangled Upspotify-this-song
  Artist(s): Thomas Rhett
 Song's name: Die A Happy Man
 Spotify's url: https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8
-Album: Tangled Up
+Album: Tangled Upspotify-this-song 
+ happy 
+ Artist(s): Thomas Rhett
+Song's name: Die A Happy Man
+Spotify's url: https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8
+Album: Tangled Upspotify-this-song 
+ somebody told me 
+ Artist(s): The Killers
+Song's name: Somebody Told Me
+Spotify's url: https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu
+Album: Hot Fussspotify-this-song 
+ november rain 
+ Artist(s): Guns N' Roses
+Song's name: November Rain
+Spotify's url: https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC
+Album: Use Your Illusion Ispotify-this-song 
+ by the way 
+ Artist(s): Red Hot Chili Peppers
+Song's name: Can't Stop
+Spotify's url: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+Album: By The Way (Deluxe Version)spotify-this-song 
+ one last breath 
+ Artist(s): Creed
+Song's name: One Last Breath
+Spotify's url: https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz
+Album: Weatheredconcert-this 
+ the killers 
+ venue name: Cardiff Castle
+Location: Cardiff 
+Date of the event: 06/28/19concert-this 
+ artic monkeys 
+ 
+
+ No results for this 
+
+    :(
+
+ Try other
+
+concert-this 
+ ofenbach 
+ venue name: Hippodrome  Longchamp
+Location: Paris 
+Date of the event: 06/21/19concert-this 
+ ed sheeran 
+ Venue: Visarno Arena
+Location: Florence 
+Date of the event: 06/14/19concert-this 
+ ed sheeran 
+ Venue: Visarno Arena
+Location: Florence 
+Date of the event: 06/14/19movie-this 
+ gladiator 
+ *Title: Gladiator
+*Release Year: 2000
+*IMDB Rate: R
+*Rotten Tomatoes: 76%
+*Country: USA, UK, Malta, Morocco
+*Languages: English
+*Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+*Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reedmovie-this 
+ gladfdasfd 
+ If you haven't watched "Mr. Nobody" then you should: http://www.imdb.com/title/tt0485947/spotify-this-song 
+ I Want it That Way 
+ Artist(s): Backstreet Boys
+Song's name: I Want It That Way
+Spotify's url: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
